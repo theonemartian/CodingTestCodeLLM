@@ -1,0 +1,81 @@
+Prompt for AI Coding Agent (e.g., Cursor):
+Build a modern, visually stunning landing page for Cardo, a web app that suggests and analyzes credit cards. The page should feature a clean, professional design with smooth animations, premium aesthetics (e.g., gradients, glassmorphism), and engaging content to drive user sign-ups. Use React with Tailwind CSS and GSAP or Framer Motion for animations. Ensure it’s fully responsive, accessible (WCAG 2.1), and optimized for fast load times.
+Requirements:
+
+Hero Section:
+
+Bold headline: “Find Your Perfect Credit Card with Cardo”
+Subheadline: “AI-powered recommendations tailored to you.”
+CTA button: “Get Started” (links to sign-up modal).
+Visual: Animated 3D credit card designs (rotating, glowing).
+Animations: Text fade-in, card rotation, subtle particle background.
+
+
+Features Section:
+
+Highlight 4 features with icons and dummy data:
+Personalized Recommendations: AI matches cards to spending habits.
+Rewards Maximizer: Compares cashback, points, travel rewards.
+Fee Transparency: Shows fees, APRs, hidden costs.
+Secure & Private: Data encryption for user trust.
+
+
+Visuals: Animated icons, card mockups.
+Animations: Scroll-triggered slide-ins, icon scaling.
+
+
+Use Case/Story Section:
+
+Narrative with dummy testimonials:
+“Sarah, a traveler, saved $500 with Cardo’s travel card picks.”
+“John, a business owner, found a no-fee card.”
+
+
+Visuals: User avatars, illustrations.
+Animations: Parallax scrolling, hover effects on testimonials.
+
+
+Card Showcase Section:
+
+Display 3 dummy credit cards:
+Travel Elite: 5% travel rewards, $95 fee.
+Cashback Pro: 3% cashback, no fee.
+Business Rewards: 2x points, $150 fee.
+
+
+Visuals: 3D cards with tilt, shadow, glow on hover.
+Animations: Card flip/rotate, shine effect.
+
+
+CTA Section:
+
+Headline: “Ready for Smarter Card Choices?”
+Subheadline: “Join thousands using Cardo.”
+CTA button: “Start Now” (links to sign-up).
+Animations: Button pulse, gradient background shift.
+
+
+Footer:
+
+Links: About, Contact, Privacy, Terms.
+Social icons: Twitter/X, LinkedIn, Instagram.
+Copyright: “© 2025 Cardo.”
+Animations: Hover effects on links.
+
+
+
+Technical Details:
+
+Use React, Tailwind CSS, and GSAP/Framer Motion.
+Color scheme: Blue (#1E3A8A), Gold (#FBBF24), White (#FFFFFF).
+Typography: Sans-serif (e.g., Inter, Poppins).
+Generate dummy text/images or use free stock assets.
+Structure as reusable components: Hero.js, Features.js, Stories.js, CardShowcase.js, CTA.js, Footer.js.
+Deliver a single-page HTML/React app runnable in any browser.
+
+Notes:
+
+No backend integration; use modals for sign-ups.
+Prioritize premium design and smooth animations.
+Ensure code is well-commented for maintainability.
+
